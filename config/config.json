@@ -1,0 +1,12 @@
+{
+    "STREAM_SETTINGS": {
+        "STREAM_LINK": "https://suamusica.com.br/roccaa",
+        "STREAM_AMOUNT": 500,
+        "LIKE_SONG": false
+    },
+    
+    "PROXY": {
+        "PROXY_USAGE": false,
+        "PROXY_TYPE": "HTTP"
+    }
+}
